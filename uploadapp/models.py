@@ -1,5 +1,4 @@
 from django.db import models
-from .models import File 
 
 
 # Create your models here.
